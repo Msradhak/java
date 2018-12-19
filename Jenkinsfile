@@ -13,4 +13,4 @@ always{
 archive 'dist/*.jar'
 }
 }
-}
+
